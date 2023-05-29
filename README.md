@@ -1,1 +1,1 @@
-# IMPLEMENTING A TOOLING WEBSITE DEPLOYMENT AUTOMATION WITH CONTINUOUS INTEGRATION
+# Implementing a tooling website deployment automation with continuous integration
